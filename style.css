@@ -282,3 +282,325 @@ h1 {
   margin: 0;
   padding: 0;
 }
+
+@media screen and (min-width: 768px) and (max-width: 992px){
+  
+  .background-paragraphe {
+    width: 44%;
+    margin: 20px;
+  }
+    
+  .paragraphe-lorem {
+    font-size: 13px;
+    line-height: 18px;
+  }
+  
+  .background-white-text {
+    border: 1px solid white;
+    background-color: white;
+    margin: 20px;
+    padding: 50px;
+  }
+  
+  .background-grey-text {
+    padding: 50px;
+  }
+  
+  
+  .block-paragraphe {
+    font-size: 10px;
+    text-align: center;
+  }
+  
+  .image-kitchen {
+    margin: 20px;
+    float: left;
+  }
+  
+  .kitchen {
+    width: 350px;
+    float: left;
+  }
+  
+  .rectangle-color-sombre {
+    float: left;
+    width: 47.5%;
+    margin-top: 20px;
+  }
+  
+  .flesh-background {
+    float: left;
+    width: 42.5%;
+    padding: 20px;
+  }
+  
+  .flesh-paragraphe {
+    font-size: 14.5px;
+  }
+  
+  .image-colorant {
+    margin: 20px;
+  }
+  
+  .colorant-image {
+    width: 350px;
+  }
+  
+  .background-paragraphe-text {
+    margin: 20px;
+    padding: 20px;
+  }
+  
+  .paragraphe-section-sept{
+    text-align: center;
+    font-size: 15px;
+  }
+  
+  .colorant-image-2 {
+    width: 350px;
+  }
+  
+  .paragraphe-section-sept-2{
+    color: black;
+    text-align: center;
+    font-size: 15px;
+  }
+  
+  .paragraphe-contact {
+    position: relative;
+    bottom: 320px;
+    margin-left: 280px;
+    margin-right: 270px;
+  }
+  
+  .contact {
+    position: relative;
+    bottom: 360px;
+  }
+  
+  .block-color-grey {
+    position: relative;
+    bottom: 290px;
+    margin-left: 415px;
+  }
+  
+  
+  
+  .image-footer {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+    
+  }
+  
+  @media screen and (min-width: 992px) and (max-width: 1200px){
+    
+  .background-title {
+    width: 30%;
+  }
+  .background-paragraphe {
+    width: 45.5%;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+      
+  .paragraphe-lorem {
+    font-size: 15px;
+    line-height: 18px;
+  }
+    
+  .image-kitchen {
+    margin: 20px;
+    float: left;
+  }
+    
+  .kitchen {
+    width: 485px;
+  }
+    
+  .rectangle-color-sombre {
+    float: left;
+    width: 46.5%;
+    margin-top: 20px;
+  }
+    
+  .flesh-background {
+    float: left;
+    width: 44.5%;
+  }
+    
+  .flesh-paragraphe {
+    font-size: 14.5px;
+  }
+    
+  .image-colorant {
+    margin: 20px;
+  }
+    
+  .colorant-image {
+    width: 350px;
+  }
+    
+  .background-paragraphe-text {
+    margin: 20px;
+    padding: 20px;
+  }
+    
+  .paragraphe-section-sept{
+    text-align: center;
+    font-size: 15px;
+  }
+    
+  .colorant-image-2 {
+    width: 350px;
+  }
+    
+  .paragraphe-section-sept-2{
+    color: black;
+    text-align: center;
+    font-size: 15px;
+  }
+    
+  .paragraphe-contact {
+    position: relative;
+    bottom: 320px;
+    margin-left: 280px;
+    margin-right: 270px;
+  }
+    
+  .contact {
+    position: relative;
+    bottom: 360px;
+  }
+    
+  .block-color-grey {
+    position: relative;
+    bottom: 290px;
+    margin-left: 515px;
+  }
+  .image-footer {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+    
+      
+  }
+  
+  @media screen and (min-width: 1200px){
+    
+  .background-title {
+    width: 43%;
+  }
+  .background-paragraphe {
+    width: 45.5%;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+        
+  .paragraphe-lorem {
+    font-size: 17px;
+    line-height: 24px;
+  }
+      
+  .image-kitchen {
+    margin: 20px;
+    float: left;
+  }
+      
+  .kitchen {
+    width: 485px;
+  }
+  
+  .block-paragraphe {
+    font-size: 15px;
+  }
+      
+  .rectangle-color-sombre {
+    float: left;
+    width: 57%;
+    margin-top: 20px;
+  }
+      
+  .flesh-background {
+    float: left;
+    width: 55.5%;
+  }
+      
+  .flesh-paragraphe {
+    font-size: 16.5px;
+  }
+      
+  .image-colorant {
+    margin: 20px;
+  }
+      
+  .colorant-image {
+    width: 635px;
+  }
+      
+  .background-paragraphe-text {
+    margin: 20px;
+    padding: 20px;
+    height: 350px;
+  }
+      
+  .paragraphe-section-sept{
+    text-align: center;
+    font-size: 18px;
+    margin-top: 115px;
+  }
+  
+  .background-text{
+    height: 350px;
+  }
+      
+  .colorant-image-2 {
+    width: 635px;
+  }
+      
+  .paragraphe-section-sept-2{
+    color: black;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 115px;
+  }
+  
+  .paragraphe-below {
+    font-size: 15px
+  }
+  
+  .paragraphe-contact {
+    position: relative;
+    bottom: 530px;
+    font-size: 20px;
+    margin-left: 280px;
+    margin-right: 270px;
+  }
+      
+  .contact {
+    position: relative;
+    bottom: 556px;
+    font-size: 50px
+  }
+      
+  .block-color-grey {
+    position: relative;
+    bottom: 400px;
+    margin-left: 640px;
+    width: 80px;
+    height: 30px;
+  }
+  
+  .image-footer {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+      
+        
+  }
+    
+  
